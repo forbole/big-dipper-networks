@@ -181,7 +181,7 @@
         "links": [
             {
                 "name": "Testnet",
-                "chain_id": "morpheus-apollo-1",
+                "chain_id": "morpheus-apollo-2",
                 "url": "https://morpheus.desmos.network"
             }
         ]
