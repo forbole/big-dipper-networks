@@ -269,14 +269,19 @@
         ]
     },
     {
-        "name": "Rizon",
-        "logo": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/logos/rizon.png?sanitize=true",
-        "cover": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/covers/rizon.png?sanitize=true",
+        "name": "cheqd Network",
+        "logo": "https://raw.githubusercontent.com/forbole/big-dipper-networks/cheqd/logos/cheqd.png?sanitize=true",
+        "cover": "https://raw.githubusercontent.com/forbole/big-dipper-networks/cheqd/covers/cheqd.png?sanitize=true",
         "links": [
             {
                 "name": "Mainnet",
-                "chain_id": "titan-1",
-                "url": "https://rizon.bigdipper.live/"
+                "chain_id": "cheqd-mainnet-1",
+                "url": "https://explorer.cheqd.io"
+            },
+            {
+                "name": "Testnet",
+                "chain_id": "cheqd-testnet-4",
+                "url": "https://testnet-explorer.cheqd.io"
             }
         ]
     }
