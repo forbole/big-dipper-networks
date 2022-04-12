@@ -64,9 +64,9 @@
                 "url": "https://akashnet-1.bigdipper.live"
             },
             {
-                "name": "Edgenet",
-                "chain_id": "akashnet-2-testnet-2",
-                "url": "https://edgenet.akash.bigdipper.live"
+                "name": "Testnet",
+                "chain_id": "edgenet-1",
+                "url": "https://testnet.akash.bigdipper.live/"
             }
         ]
     },
@@ -150,7 +150,7 @@
             },
             {
                 "name": "Testnet",
-                "chain_id": "likecoin-public-testnet-3",
+                "chain_id": "likecoin-public-testnet-5",
                 "url": "https://testnet.likecoin.bigdipper.live"
             }
         ]
@@ -277,6 +277,35 @@
                 "name": "Mainnet",
                 "chain_id": "titan-1",
                 "url": "https://rizon.bigdipper.live/"
+            }
+        ]
+    },
+    {
+        "name": "Elrond",
+        "logo": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/logos/elrond.png?sanitize=true",
+        "cover": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/covers/elrond.png?sanitize=true",
+        "links": [
+            {
+                "name": "Mainnet",
+                "chain_id": "mainnet",
+                "url": "https://elrond.bigdipper.live/"
+            }
+        ]
+    },
+    {
+        "name": "Evmos",
+        "logo": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/logos/evmos.svg?sanitize=true",
+        "cover": "https://raw.githubusercontent.com/forbole/big-dipper-networks/main/covers/evmos.png?sanitize=true",
+        "links": [
+            {
+                "name": "Mainnet",
+                "chain_id": "evmos_9001-1",
+                "url": "https://evmos.bigdipper.live/"
+            },
+            {
+                "name": "Testnet",
+                "chain_id": "evmos_9000-4",
+                "url": "https://testnet.evmos.bigdipper.live/"
             }
         ]
     }
