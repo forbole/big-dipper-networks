@@ -263,7 +263,7 @@
       },
       {
         "name": "Testnet",
-        "chain_id": "cheqd-testnet-4",
+        "chain_id": "cheqd-testnet-6",
         "url": "https://testnet-explorer.cheqd.io"
       }
     ]
