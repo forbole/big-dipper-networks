@@ -453,5 +453,23 @@
         "url": "https://testnet.bigdipper.live/quasar"
       }
     ]
+  },
+  {
+    "name": "Stratos",
+    "chainName": "stratos",
+    "logo": "https://raw.githubusercontent.com/stratosnet/big-dipper-networks/main/logos/stratos.svg",
+    "cover": "https://raw.githubusercontent.com/stratosnet/big-dipper-networks/main/covers/stratos.png",
+    "links": [
+      {
+        "name": "Mainnet",
+        "chain_id": "stratos-1",
+        "url": "https://explorer.thestratos.org"
+      },
+      {
+        "name": "Testnet",
+        "chain_id": "mesos-1",
+        "url": "https://big-dipper-mesos.thestratos.org"
+      }
+    ]
   }
 ]
